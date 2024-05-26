@@ -12,3 +12,9 @@ Step-by-Step Navigation: The heart of the application lies in its intuitive prog
 Interactive Dark/Light Mode: Enhancing the user experience, this project offers choice between Dark Mode and Light Mode. Whether users prefer a sleek and modern aesthetic or a soft and gentle ambiance, they can effortlessly switch between modes to suit their preferences. The interface seamlessly adapts to the selected mode, ensuring optimal readability and visual appeal.
 
 Responsive Design: Built with responsiveness in mind, it adapts fluidly to various screen sizes and devices. Whether accessed on a desktop, tablet, or smartphone, users can enjoy a consistent and enjoyable experience, allowing them to focus on their journey without distraction.
+
+**Technologies Used:**
+
+* **HTML5**
+* **CSS3**
+* **JS** 
