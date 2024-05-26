@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Progress Steps</title>
+
+    <link rel="stylesheet"
+        href="https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined:opsz,wght,FILL,GRAD@24,400,0,0" />
+    
+    <link rel="stylesheet" href="app.css">
+    <script defer src="main.js"></script>
+</head>
+
+<body>
+  <p id="dev">Developed with <span>❤</span> by <a href="https://codepen.io/Tapan681/" target="_blank">Tapan Dabrai</a> </p>
+  
+  <button id="toggle">Dark Mode <i id="toggleIcon" class="fas fa-moon"></i></button>
+  
+  <div id="container">
+    <div class="progress-container">
+      <div class="progress" id="progress"></div>
+      <div class="circle active">1</div>
+      <div class="circle">2</div>
+      <div class="circle">3</div>
+      <div class="circle">4</div>
+    </div>
+    <div class="content">
+      <p id="content-title">Step One</p>
+      <p id="content-p1"></p> 
+      <p id="content-p2"></p>
+    </div>
+    <button class="btn" id="prev" disabled>Prev</button>
+    <button class="btn" id="next">Next</button>
+  </div>
+</body>
+</html>
